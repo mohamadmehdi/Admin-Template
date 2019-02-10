@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\demos",
+    "\\src\\styles",
+    "\\src\\styles\\components",
+    "\\src\\styles\\demos",
+    "\\src\\styles\\themes",
+    "\\src\\styles\\utils",
+    "\\src\\utils"
+  ],
+  "SelectedNode": "\\src\\styles\\themes\\_colors.scss",
+  "PreviewInSolutionExplorer": false
+}
